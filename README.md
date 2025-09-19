@@ -251,7 +251,6 @@ Le fichier `modele-lettre.docx` doit contenir des balises de remplacement :
 
 Pour toute question ou problème :
 - Consultez les logs dans `log/`
-- Vérifiez la configuration dans `config.local.php`
 - Contactez l'auteur : [chafik.elhirach@chk-elh.fr]
 
 ## 📄 Licence
