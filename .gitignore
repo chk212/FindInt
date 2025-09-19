@@ -1,0 +1,65 @@
+# Configuration locale (contient des données sensibles)
+config.local.php
+
+# Fichiers de sécurité
+security_check.php
+copyright_protection.php
+COPYRIGHT.md
+test_copyright.php
+
+# Logs et données sensibles
+log/
+donnees_entreprises.csv
+
+# Fichiers générés
+lettre/
+temp.docx
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.log
+
+# Fichiers de cache
+cache/
+.cache/
+
+# Fichiers de configuration d'éditeur
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de dépendances (si vous utilisez Composer)
+vendor/
+
+# Fichiers d'environnement
+.env
+.env.local
+.env.production
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+# Fichiers de test
+test/
+tests/
+phpunit.xml
+
+# Fichiers de documentation générée
+docs/_build/
+
+# Fichiers de cache PHP
+*.cache
+
+# Fichiers de session
+sessions/
+
+# Fichiers uploadés
+uploads/
